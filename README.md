@@ -3,6 +3,7 @@
 - :microscope: Scientific interests: machine learning, applied computational geometry, linear algebra
 - 📫 How to reach me: 
     - :email: feoktistovdd@my.msu.ru
+    - :email: feoctistov1580@yandex.ru
     - :calling: Telegram @TrandeLik
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TrandeLik&theme=default)
