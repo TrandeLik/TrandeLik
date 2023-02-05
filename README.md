@@ -1,6 +1,6 @@
 ### Hi there, I am Dima 👋
 - :mortar_board: MSU CMC student; Department of Mathematical Methods of Forecasting
-- :microscope: Scientific interests: machine learning, applied computational geometry, linear algebra
+- :microscope: Scientific interests: machine learning, deep learning, applied computational geometry, linear algebra
 - 📫 How to reach me: 
     - :email: feoktistovdd@my.msu.ru
     - :email: feoctistov1580@yandex.ru
